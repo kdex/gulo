@@ -1,0 +1,26 @@
+{
+  "name": "gulo",
+  "version": "1.0.0",
+  "description": "An example typesquat that might become relevant with the introduction of npx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdex/gulo.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulo",
+    "typesquat",
+    "npx",
+    "npm"
+  ],
+  "author": "kdex",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kdex/gulo/issues"
+  },
+  "homepage": "https://github.com/kdex/gulo#readme"
+}
