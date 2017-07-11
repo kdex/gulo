@@ -1,6 +1,6 @@
 {
   "name": "gulo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An example typesquat that might become relevant with the introduction of npx",
   "main": "index.js",
   "bin": {
