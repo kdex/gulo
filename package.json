@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "An example typesquat that might become relevant with the introduction of npx",
   "main": "index.js",
+  "bin": {
+    "gulo": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
